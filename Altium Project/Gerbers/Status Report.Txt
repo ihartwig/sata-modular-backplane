@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [SATA-Modular-Backplane.PcbDoc]
+   Generated File[SATA-Modular-Backplane.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:30:05 AM On 6/5/2024

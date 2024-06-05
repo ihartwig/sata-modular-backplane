@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for SATA-Modular-Backplane
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -58,8 +58,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -99,6 +99,192 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKDSILYP
 
+[Document4]
+DocumentPath=SATA-Modular-Backplane.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ISPPOYNT
+
+[Document5]
+DocumentPath=GerbersDrillsPdf.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SATA-Modular-Backplane\Design Rule Check - SATA-Modular-Backplane.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Gerbers\SATA-Modular-Backplane-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\SATA-Modular-Backplane-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Gerbers\SATA-Modular-Backplane-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\SATA-Modular-Backplane-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Gerbers\SATA-Modular-Backplane.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\SATA-Modular-Backplane.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Gerbers\SATA-Modular-Backplane.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.G1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GM
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerbers\SATA-Modular-Backplane.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Generate Files\NC Drill\SATA-Modular-Backplane.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerbers\SATA-Modular-Backplane.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Gerber\SATA-Modular-Backplane.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Gerbers\SATA-Modular-Backplane.xls
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Generate Files\Report Board Stack\SATA-Modular-Backplane.xls
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Board_Shape.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Gerbers\SATA-Modular-Backplane_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -108,6 +294,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for SATA-Modular-Backplane
 
 [OutputGroup1]
 Name=Netlist Outputs

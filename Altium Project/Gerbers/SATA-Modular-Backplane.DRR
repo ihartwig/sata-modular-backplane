@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SATA-Modular-Backplane.PcbDoc   6/5/2024  12:30:03 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : SATA-Modular-Backplane-Plated.TXT
+ASCII Non-Plated RoundHoles File : SATA-Modular-Backplane-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             10        PTH        120.89mm (4.76inch)
+T2      0.91mm (36mil)                                            Round             44        PTH        172.53mm (6.79inch)
+T3      1.02mm (40mil)                                            Round             12        PTH        34.71mm (1.37inch)
+T4      1.03mm (41mil)                                            Round             4         PTH        7.62mm (0.30inch)
+T5      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T6      1.35mm (53mil)                                            Round             4         PTH        48.55mm (1.91inch)
+T7      2.68mm (106mil)                                           Round             4         NPTH       74.73mm (2.94inch)
+T8      3.2mm (126mil)                                            Round             4         NPTH       141.71mm (5.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              86
+
+Total Processing Time (hh:mm:ss) : 00:00:00
